@@ -34,12 +34,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/Deepanshv" target="_blank">
